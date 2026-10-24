@@ -1,8 +1,8 @@
  <div align="center">
 
-# 🚀 Deep Learning Practical Exam — Set C
+# 🚀 Deep Learning 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Neural+Networks;OpenCV+Computer+Vision;CNN+Digit+Classification;RNN+Sentiment+Analysis;Transformer+NLP" alt="Animated Deep Learning Topics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Artificial+Neural+Networks;OpenCV+Computer+Vision;CNN;RNN+Sentiment+Analysis;Transformer" alt="Animated Deep Learning Topics" />
 
 <p>
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-**A Hands-On Deep Learning Project Using Python, Neural Networks, Computer Vision and NLP**
+**A Hands-On Deep Learning Project Using Python, Neural Networks and Computer Vision **
 
 [Project Overview](#-project-overview) • [Practical Tasks](#-practical-tasks) • [Results](#-results-at-a-glance) • [Installation](#️-installation-and-setup)
 
