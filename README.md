@@ -462,7 +462,7 @@ The embedding layer converts token IDs into vectors. The SimpleRNN processes the
 
 ###  SimpleRNN ROC Curve
 
-![SimpleRNN ROC Curve](screenshots/SimpleRNN_ROC_Curve.png)
+![SimpleRNN ROC Curve](plot/SimpleRNN_ROC_Curve.png)
 
 **Conclusion:** The ROC curve illustrates the trade-off between the true-positive rate and false-positive rate at different classification thresholds.
 
@@ -603,7 +603,7 @@ The model workflow includes:
 
 ### Transformer ROC Curve
 
-![Transformer ROC Curve](plt/Transformer_ROC_Curve.png)
+![Transformer ROC Curve](plot/Transformer_ROC_Curve.png)
 
 **Conclusion:** The ROC curve evaluates the model's ability to distinguish between the two sentiment classes across thresholds.
 
@@ -647,7 +647,7 @@ Create a horizontal bar chart using the question numbers 1–10 on the y-axis an
 
 ###  Transformer Question-Answer Confidence Scores
 
-![Transformer Question Answer Confidence Scores](plt/Transformer_Question_Ans_Confidence_Scores.png)
+![Transformer Question Answer Confidence Scores](plot/Transformer_Question_Ans_Confidence_Scores.png)
 
 **Conclusion:** The confidence chart compares the model's scores for the evaluated questions, while correctness must be checked against the reference answers.
 
