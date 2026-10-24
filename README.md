@@ -14,10 +14,13 @@
 
 **A Hands-On Deep Learning Project Using Python, Neural Networks and Computer Vision **
 
-[Project Overview](#-project-overview) • [Practical Tasks](#-practical-tasks) • [Results](#-results-at-a-glance) • [Installation](#️-installation-and-setup)
+[Project Overview](#-project-overview) • [Practical Tasks](#-practical-tasks) • [Results](#-results-at-a-glance) 
 
 </div>
+---
+## Project Overview Video
 
+Watch the recorded project overview and demonstration: **[▶ Watch the Practical DL](https://drive.google.com/file/d/129AnXY3kwEv5KuesD_Hl5L3-FW1oR6uK/view?usp=sharing)**
 ---
 
 
