@@ -176,7 +176,7 @@ The hidden layers learn relationships between the input features, while the Soft
 
 Understand digital images and implement common image-processing and computer-vision techniques using OpenCV.
 
-### 🔹 Task 2.1 — Load and Inspect Images
+##🔹 Task 2.1 — Load and Inspect Images
 
 - Import OpenCV and other required libraries.
 - Load sample or supplied images.
@@ -275,7 +275,7 @@ If an image file is missing, upload it to the notebook's working directory or us
 
 Classify handwritten digits from the MNIST dataset and compare a basic ANN with a Convolutional Neural Network.
 
-# 🔹 Task 3.1 — Load and Explore MNIST
+## 🔹 Task 3.1 — Load and Explore MNIST
 
 - Load the MNIST dataset.
 
@@ -460,6 +460,12 @@ The embedding layer converts token IDs into vectors. The SimpleRNN processes the
 
 - Plot the ROC curve if implemented in the notebook.
 
+###  SimpleRNN ROC Curve
+
+![SimpleRNN ROC Curve](screenshots/SimpleRNN_ROC_Curve.png)
+
+**Conclusion:** The ROC curve illustrates the trade-off between the true-positive rate and false-positive rate at different classification thresholds.
+
 ## 🔹 Task 4.4 — Save and Reflect
 
 - Save the trained sentiment model.
@@ -639,7 +645,7 @@ Create a horizontal bar chart using the question numbers 1–10 on the y-axis an
 - Use **red bars** for incorrect answers.
 - Use actual confidence scores and reference answers from the evaluation data.
 
-### 5. Transformer Question-Answer Confidence Scores
+###  Transformer Question-Answer Confidence Scores
 
 ![Transformer Question Answer Confidence Scores](plt/Transformer_Question_Ans_Confidence_Scores.png)
 
@@ -671,17 +677,9 @@ Create a horizontal bar chart using the question numbers 1–10 on the y-axis an
 
 Install Python and open your project in Jupyter Notebook or VS Code. Select the Python environment that will run your notebooks.
 
-### 2. Install Required Libraries
-
-Run this command in a notebook cell:
-
-```python
-%pip install numpy pandas matplotlib scikit-learn tensorflow opencv-python scikit-image transformers torch
-```
-
 Install only the libraries required for the tasks you are running if your environment has compatibility constraints.
 
-### 3. Run the Notebooks
+### 2. Run the Notebooks
 
 1. Open the notebook for the practical task.
 2. Select the correct Python kernel.
@@ -690,7 +688,7 @@ Install only the libraries required for the tasks you are running if your enviro
 5. Review the generated outputs, metrics and charts.
 6. Save the final notebook and add relevant screenshots to your repository.
 
-### 4. Dataset and Internet Notes
+### 3. Dataset and Internet Notes
 
 - The Wine dataset can be loaded using scikit-learn.
 - MNIST can be loaded through Keras.
